@@ -1,0 +1,9 @@
+Savings Account
+Account Number: 50
+Account Holder Name: Ahmed
+Balance: 16
+
+Checking Account
+Account Number: 25
+Account Holder Name: Salim
+Balance: 37
